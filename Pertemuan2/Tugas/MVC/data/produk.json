@@ -1,9 +1,16 @@
 [
     {
-        "judul": "resep makan siang",
-        "penulis": "Alianda",
-        "penerbit": "CV.nusa indah",
-        "harga": 500000,
-        "id": 1
+        "judul": "After Effects Tips & Tricks",
+        "penulis": "Trixie Trix",
+        "penerbit": "Adobe.co",
+        "harga": 150000,
+        "id": 2
+    },
+    {
+        "judul": "Affter Effects Plugin With ChatGPT",
+        "penulis": "Kresna Satria",
+        "penerbit": "KRFX.co",
+        "harga": 90000,
+        "id": 3
     }
 ]
